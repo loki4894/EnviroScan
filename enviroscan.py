@@ -1,3 +1,6 @@
+# Project: AI-EnviroScan
+# Model: Random Forest
+# Tool: Google Colab
 # Enviroscan7 Streamlit App
 # -*- coding: utf-8 -*-
 import streamlit as st
