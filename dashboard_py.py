@@ -1,3 +1,6 @@
+# Project: AI-EnviroScan
+# Model: Random Forest
+# Tool: Google Colab
 # -*- coding: utf-8 -*-
 """dashboard.py
 
