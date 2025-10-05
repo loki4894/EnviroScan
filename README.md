@@ -1,4 +1,7 @@
-🌱 Enviroscan7 – Environmental Data Analysis & Dashboard
+🌱 Enviroscan – Environmental Data Analysis & Dashboard
+# Project: AI-EnviroScan
+# Model: Random Forest
+# Tool: Google Colab
 
 Enviroscan7 is a Streamlit-based interactive dashboard designed to analyze, visualize, and monitor environmental air quality data.
 It integrates OpenAQ, OpenWeather, OSM (OpenStreetMap) features, and Machine Learning models to detect pollution sources, generate insights, and issue real-time alerts.
